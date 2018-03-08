@@ -28,9 +28,10 @@ Visit Log4Net
 Note : " LogEntries Log4Net Appender This Is Asp.net core 2.0 Appender fot Logentries ".
 
 This Appender is Available on NuGet
-Appender Name : log4net-logentries-core-appender
+Appender Name on NuGet: "log4net-logentries-core-appender"
 Dependency : Asp.net Core 2.0
 ////////////////////////////////////////////////////// *********************** ////////////////////////////////////////////////////
 Here,I am Providing One Demo in asp.net core 2.0 ,
-in which All Configuration Set ,just change Log key and Get Your Logs 
+in which All Configuration Set ,just change Log key and Get Your Logs .
+Demo Name : "LogEntriesDemo"
 
