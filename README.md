@@ -1,5 +1,5 @@
- *****    Logging For Logentries    **********
-         LogEntriesLog4NetAppender
+ ***** Logging For Logentries **********
+ LogEntriesLog4NetAppender
 
 Logentries currently has plugins for Log4net 
 
@@ -31,5 +31,6 @@ This Appender is Available on NuGet
 Appender Name : log4net-logentries-core-appender
 Dependency : Asp.net Core 2.0
 ////////////////////////////////////////////////////// *********************** ////////////////////////////////////////////////////
-
+Here,I am Providing One Demo in asp.net core 2.0 ,
+in which All Configuration Set ,just change Log key and Get Your Logs 
 
